@@ -12,4 +12,6 @@
 //
 //= require rails-ujs
 //= require turbolinks
+//= require moment/moment
+//= require moment-timezone/builds/moment-timezone-with-data
 //= require_tree .
